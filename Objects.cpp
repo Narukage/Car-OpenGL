@@ -768,8 +768,8 @@ TGui::TGui()
     sel = 1;
     enable_panel2 = 1;
     light0_enabled = 1;
-    light1_enabled = 1;
-    light2_enabled = 1;
+    light1_enabled = 0;
+    light2_enabled = 0;
     light0_intensity = 0.8;
     light1_intensity = 0.8;
     light2_intensity = 0.8;
